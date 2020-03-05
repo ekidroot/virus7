@@ -1,5 +1,5 @@
-VIRUS7.sh                                          Modified
 #!bin/bash
+
 #SUBSCRIBE: Ekid Root :)
 clear
 echo "===================" | lolcat
