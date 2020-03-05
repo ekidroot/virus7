@@ -1,0 +1,46 @@
+VIRUS7.sh                                          Modified
+#!bin/bash
+#SUBSCRIBE: Ekid Root :)
+clear
+echo "===================" | lolcat
+echo "|==================|" | lolcat
+echo "TOOLS INI UNTUK MENGIRIM VIRUS KE HP TARGET"
+echo "1.)REAKSI TOOLS INI, BISA MEMBUAT LAG HP"
+echo "2.)DAN TOOLS INI BISA DIKIRIM LEWAT NO HP"
+echo "admin : Ebeck kansas" | lolcat
+echo "youtube: Ekid Root" | lolcat
+echo "github: github.com/ekidroot" | lolcat
+echo "FB: Ebeck kansas fage: pulber kuy" | lolcat
+read -p "MASUKAN NO HP TARGET: " nama
+echo "NO INI TERSIMPAN: " $nama
+echo "SEDANG MENGIRIM..." | lolcat -a -d 100
+clear
+VIRUS=0
+
+until [ $VIRUS -gt 100 ]
+do
+  VIRUS=$(($VIRUS+1))
+  echo "VIRUS" $(($VIRUS))
+  sleep 1
+done
+echo "......" | lolcat -a -d 60
+clear
+echo "DONE BOSQ TOOLS TERKIRIM"
+echo "APABILA TIDAK BERHASIL"
+echo "TARGET TIDAK ADA KUOTANYA"
+echo "OTOMATIS JARINGAN TERPUTUS"
+
+IRUS7.sh
+VIRUS=0
+
+until [ $VIRUS -gt 100 ]
+do
+  VIRUS=$(($VIRUS+1))
+  echo "VIRUS" $(($VIRUS))
+  sleep 1
+done
+echo "......" | lolcat -a -d 60
+clear
+echo "DONE BOSQ TOOLS TERKIRIM"
+echo "APABILA TIDAK BERHASIL"
+echo "TARGET TIDAK ADA KUOTANYA" 
